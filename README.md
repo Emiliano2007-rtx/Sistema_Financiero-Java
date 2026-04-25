@@ -6,5 +6,5 @@ Actualmente tiene:
 - Pequeña GUI con la clase swing
 - Exporta los resultados a un .txt y guarda en una carpeta
 
-- Proximamente:
+Proximamente:
 - Estado de Resultados
